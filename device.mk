@@ -327,7 +327,8 @@ PRODUCT_PACKAGES+= \
 PRODUCT_PACKAGES += \
     libqti-perfd-client \
     NoCutoutOverlay \
-    NotchBarKiller
+    NotchBarKiller \
+    VShapedNotch
 
 # Power
 PRODUCT_PACKAGES += \
