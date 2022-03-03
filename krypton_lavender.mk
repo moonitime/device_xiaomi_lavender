@@ -30,3 +30,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="lavender-user 9 PKQ1.180904.001 V11.0.5.0.PFGMIXM release-keys"
 
 BUILD_FINGERPRINT :="xiaomi/lavender/lavender:9/QKQ1.190910.002/V11.0.1.0.QFGMIXM:user/release-keys"
+
+# Mark as official build
+OFFICIAL_BUILD := true
