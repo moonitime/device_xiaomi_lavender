@@ -321,12 +321,6 @@ PRODUCT_PACKAGES += \
     libOmxVenc \
     libstagefrighthw
 
-
-# Pixel Offline Charger
-PRODUCT_PACKAGES+= \
-    charger_res_images \
-    product_charger_res_images
-
 # Perfd (dummy)
 PRODUCT_PACKAGES += \
     libqti-perfd-client \
