@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/krypton_lavender.mk
+    $(LOCAL_DIR)/weeb_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    krypton_lavender-user \
-    krypton_lavender-userdebug \
-    krypton_lavender-eng
+    weeb_lavender-user \
+    weeb_lavender-userdebug \
+    weeb_lavender-eng
